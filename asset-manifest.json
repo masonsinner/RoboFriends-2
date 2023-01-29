@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboFriends-2/static/css/main.b9337ef6.css",
+    "main.js": "/RoboFriends-2/static/js/main.afd370b7.js",
+    "static/js/787.32032a02.chunk.js": "/RoboFriends-2/static/js/787.32032a02.chunk.js",
+    "static/media/orbitron-bold.woff": "/RoboFriends-2/static/media/orbitron-bold.1d8c5e4c93c51d57b5f4.woff",
+    "index.html": "/RoboFriends-2/index.html",
+    "main.b9337ef6.css.map": "/RoboFriends-2/static/css/main.b9337ef6.css.map",
+    "main.afd370b7.js.map": "/RoboFriends-2/static/js/main.afd370b7.js.map",
+    "787.32032a02.chunk.js.map": "/RoboFriends-2/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9337ef6.css",
+    "static/js/main.afd370b7.js"
+  ]
+}
