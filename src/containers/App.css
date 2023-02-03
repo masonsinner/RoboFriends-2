@@ -10,3 +10,7 @@ h1 {
     color: #9acff8;
     text-shadow: 1px 1px 10px #55738a, 1px 1px 10px #55738a;
 }
+
+div::-webkit-scrollbar{
+    display: none;
+}
